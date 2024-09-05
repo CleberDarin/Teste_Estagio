@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Teste1_1;
 
-namespace Teste1_1
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+     //Escolha qual quer executar alterando "Teste5" para "Teste1" ou "Teste2" e assim por diante.
+        Teste5.Executar();
     }
 }
+
